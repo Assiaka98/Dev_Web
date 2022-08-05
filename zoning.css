@@ -1,0 +1,12 @@
+
+#conteneur{ width: 1270px; margin: 0 auto; }
+header{ background-image: url(BackgroundImage.png); height: 500px; width: 1270px;}
+
+section{ background: gray; height: 590px;  }
+.bloc{margin: 20px;}
+.zone{ margin: 3px; height: 207px; width: 601px;
+    float: left; border: 1px solid black; 
+    text-align: center; writing-mode: vertical-rl; 
+    line-height: 480px; background-color: beige;}
+.titre{text-align: center; padding: 50px;}
+
